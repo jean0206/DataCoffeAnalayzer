@@ -1,0 +1,36 @@
+<HTML><HEAD><TITLE>Reporte R4</TITLE>
+<LiNt rel="stylesheet" type="text/css" href="/style.css"><LiNt rel="stylesheet" type="text/css" href="/reports/defectReports.css"></HEAD>
+<BODY>
+<h1>Todos los Datos PSP A la Fecha</h1><h2>Reporte R4</h2>
+<H3>Tabla D23</H3>
+<p><table name='D23' class='R4table' border><TR class='R4header'><TD></TD>
+<TD colspan=1>Número de Inyectados</TD>
+<TD colspan=1>Porcentaje de Inyectados</TD>
+
+<TD colspan=0>Número de Eliminados</TD>
+<TD colspan=0>Porcentaje de Eliminados</TD></TR>
+
+<TR><TD>Tipo</TD>
+<TD>Codificación</TD>
+<TD>Codificación</TD>
+
+
+</TR>
+<TR><TD>Interface</TD>
+<TD>1</TD>
+<TD>100%</TD>
+</TR>
+<TR><TD>Total</TD>
+<TD>1</TD>
+<TD>100%</TD>
+</TR>
+</table></p>
+<H3>Tabla D24</H3>
+
+<p><table name='D24' border class='R4table'>
+<TR class='R4header'><TD>Tipo de Defecto</TD>
+<TD VALIGN=bottom>Número de defectos hasta Compilación</TD><TD VALIGN=bottom>Número de defectos encontrados en Compilación</TD><TD VALIGN=bottom>Porcentaje de Tipo de defectos encontrados por el Compilador</TD></TR>
+
+</table></p>
+<!--HIDDEN P class='doNotPrint'><dis_a HREF="../excel.iqy"><I>Exportar a Excel</I></dis_a></P HIDDEN-->
+</BODY></HTML>

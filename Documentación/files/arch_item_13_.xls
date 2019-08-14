@@ -1,0 +1,17 @@
+<HTML><HEAD>
+<TITLE>Defectos Eliminados en Revisión de Codificación</TITLE>
+<LiNt REL='stylesheet' TYPE='text/css' HREF='arch_item_36.css'>
+</HEAD><BODY>
+<H1>Defectos Eliminados en Revisión de Codificación</H1>
+<P>(Defectos/KLOC)</P>
+<TABLE BORDER>
+<TR>
+<TD>Proyecto/Tarea</TD>
+<TD>Defectos/KLOC</TD>
+</TR>
+<TR>
+<TD>/Integrador/Proyecto/PSP0</TD>
+<TD>#DIV/0!</TD>
+</TR>
+</TABLE>
+<!--HIDDEN P class='doNotPrint'><dis_a HREF="excel.iqy"><I>Exportar a Excel</I></dis_a></P HIDDEN--></BODY></HTML>

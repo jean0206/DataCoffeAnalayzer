@@ -1,0 +1,34 @@
+<HTML><HEAD>
+<TITLE>Defectos Inyectados por Fase A la Fecha</TITLE>
+<LiNt REL='stylesheet' TYPE='text/css' HREF='arch_item_36.css'>
+</HEAD><BODY>
+<H1>Defectos Inyectados por Fase A la Fecha</H1>
+<TABLE BORDER>
+<TR>
+<TD>Planeación</TD>
+<TD>HLD</TD>
+<TD>Revisión HLD</TD>
+<TD>Diseño</TD>
+<TD>Revisión de Diseño</TD>
+<TD>Codificación</TD>
+<TD>Revisión de Codificación</TD>
+<TD>Compilación</TD>
+<TD>Pruebas</TD>
+<TD>Reevaluación</TD>
+<TD>Postmortem</TD>
+</TR>
+<TR>
+<TD>1</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>1</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>0</TD>
+</TR>
+</TABLE>
+<!--HIDDEN P class='doNotPrint'><dis_a HREF="excel.iqy"><I>Exportar a Excel</I></dis_a></P HIDDEN--></BODY></HTML>

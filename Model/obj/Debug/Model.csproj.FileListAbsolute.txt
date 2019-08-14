@@ -1,0 +1,6 @@
+C:\Users\jeank\source\repos\DataCoffeAnalayzer\Model\bin\Debug\Model.dll
+C:\Users\jeank\source\repos\DataCoffeAnalayzer\Model\bin\Debug\Model.pdb
+C:\Users\jeank\source\repos\DataCoffeAnalayzer\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\jeank\source\repos\DataCoffeAnalayzer\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\jeank\source\repos\DataCoffeAnalayzer\Model\obj\Debug\Model.dll
+C:\Users\jeank\source\repos\DataCoffeAnalayzer\Model\obj\Debug\Model.pdb
